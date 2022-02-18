@@ -6,17 +6,19 @@
   <img src="https://img.shields.io/badge/Gmail-F80000?style=flat-square&logo=Gmail&logoColor=white"/> 
 </a>
 
+[![Solved.acid6020](http://mazassumnida.wtf/api/generate_badge?boj=id6020)](https://solved.ac/id6020)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LimDoH&show_icon=true&theme=cobalt)](https://github.com/LimDoH)
+  
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimdoH)](https://github.com/LimdoH/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LimDoH)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.acid6020](http://mazassumnida.wtf/api/generate_badge?boj=id6020)](https://solved.ac/id6020)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LimDoH&show_icon=true&theme=cobalt)](https://github.com/LimDoH)
 
 👋 Hi, I’m Java based Web Developer @LimdoH.
 
-  👀 I’m interested in ...
+  👀 I’m interested in getting a skill
 
-  🌱 I’m currently learning ...
+  🌱 I’m currently learning ADsP, SQLD, 정보처리기사
 
 <b>Skills</b>
   
