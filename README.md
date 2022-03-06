@@ -18,7 +18,7 @@
 
   👀 I’m interested in getting a skill
 
-  🌱 I’m currently learning ADsP, SQLD, 정보처리기사
+  🌱 I’m currently learning SQLD, 정보처리기사 실기, Linux
 
 <b>Skills</b>
   
