@@ -10,7 +10,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LimDoH&show_icon=true&theme=cobalt)](https://github.com/LimDoH)
   
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimdoH)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimDoH&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LimDoH)](https://github.com/anuraghazra/github-readme-stats)
 
 
